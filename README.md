@@ -17,6 +17,7 @@ A simple tic-tac-toe game built with **REACT**. Player take turns placing X and 
 
 - **React**   
 - **css**
+- **Tailwind**
 
 
 ---  
@@ -34,7 +35,7 @@ Here's take a quick look:
 ## LIVE DEMO 🌐
 
 Here's play game yourself its FUN:
-- [Click here to experience yourself via live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
+- [Click here to experience yourself via live-demo]()
 
 ----------------------------------------
 
