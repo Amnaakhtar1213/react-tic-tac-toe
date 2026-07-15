@@ -35,7 +35,7 @@ Here's take a quick look:
 ## LIVE DEMO 🌐
 
 Here's play game yourself its FUN:
-- [Click here to experience yourself via live-demo]()
+- [Click here to experience yourself via live-demo](https://amnaakhtar1213.github.io/react-tic-tac-toe/)
 
 ----------------------------------------
 
